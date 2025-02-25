@@ -1,0 +1,22 @@
+{
+  "name": "providerv2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMS2425/Provider2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMS2425/Provider2/issues"
+  },
+  "homepage": "https://github.com/SMS2425/Provider2#readme",
+  "description": "",
+  "dependencies": {
+    "dredd": "^14.1.0"
+  }
+}
